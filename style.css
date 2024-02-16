@@ -1,0 +1,26 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+main {
+display: flex;
+flex-direction: column;
+  width: 500px;
+}
+
+main form div {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  height: 100px;
+}
+
+button {
+  width: auto;
+}
